@@ -7,7 +7,7 @@ My work can be found at https://github.com/BZNUDS/python-api-challenge
 
     Jupyter Notebook Files: WeatherPyFinal.ipynb and VacationPyFinal.ipynb
     Output data file and .png plots: WeatherPy/output_data
-    Analysis will be incorporated into the Jupyter Notebook
+    Analysis will be incorporated into the Jupyter Notebook (Still WIP)
     
 The goal of this challenge to take what I've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 
