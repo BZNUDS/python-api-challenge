@@ -1,10 +1,10 @@
 # python-api-challenge
 
 
+     ATTENTION GRADER: I received numerous emails this evening stating "GitGuardian has detected the following Google API Key exposed within your GitHub account." Therefore, I deleted my currently active API key that I previously stored in my api_keys.py file (aka g_key in this Notebook). If you do not have one that you can use, please let me know (brian.zdarsky@gmail.com) and I will create a new one and update my api_keys.py ASAP. Sorry for the inconvenince, but I do not know the impact yet and I have heard how some have been charged $300,000...and I can't afford that:( Thank you, Brian
 
 
 My work can be found at https://github.com/BZNUDS/python-api-challenge
-
     Jupyter Notebook Files: WeatherPyFinal.ipynb and VacationPyFinal.ipynb
     Output data file and .png plots: WeatherPy/output_data
     Analysis will be incorporated into the Jupyter Notebook (Still WIP)
